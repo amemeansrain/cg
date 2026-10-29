@@ -1,0 +1,9 @@
+Copyright 2026 Vladimir Bakharev
+
+This laboratory adapts the application/main/graphics_internal architecture from
+https://github.com/vladeemerr/vulkan-starter-app (Apache-2.0).
+Modified for laboratory 2, variant 8: cylinder geometry with procedural normals,
+camera controls, Blinn-Phong materials, directional/point/spot lighting,
+scene/model descriptor sets, light storage buffers and unlit light visualizations.
+Build scripts and MoltenVK support enable macOS compilation and execution.
+Third-party notices and licenses are in third_party/licenses/.

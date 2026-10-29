@@ -1,0 +1,10 @@
+.DS_Store
+.deps/
+build/
+build-*/
+third_party/imgui-1.91.9b/
+third_party/glfw-3.4/
+third_party/vk-bootstrap-1.4.321/
+third_party/VulkanMemoryAllocator-3.4.0/
+imgui.ini
+*.log
