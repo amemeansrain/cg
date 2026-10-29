@@ -1,0 +1,10 @@
+Copyright 2026 Vladimir Bakharev
+
+This laboratory adapts the application/main/graphics_internal architecture from
+https://github.com/vladeemerr/vulkan-starter-app (Apache-2.0).
+Modified for laboratory 1, variant 8 and its six additional tasks: cylinder
+geometry, matrix transformations, projection switching, controlled animation,
+object colors multiplied by procedural vertex colors, and multiple objects
+with separate descriptor sets. Build scripts and MoltenVK support enable macOS
+compilation and execution.
+Third-party notices and licenses are in third_party/licenses/.
